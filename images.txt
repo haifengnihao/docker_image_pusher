@@ -3,5 +3,9 @@ nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 mysql:5.7
+nginx:latest
+nacos:latest
+docker.elastic.co/elasticsearch/elasticsearch:latest
+eclipse-temurin:8
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
