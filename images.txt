@@ -1,6 +1,6 @@
 kibana:7.16.2
 elasticsearch:8.19.10
 ollama/ollama:latest
-neo4j:5.22-community
+minio:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
